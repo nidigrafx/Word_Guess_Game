@@ -1,0 +1,19 @@
+body {
+    background-image: url(../images/Grammar-Yoda-l.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: greenyellow;
+    display: flex;
+}
+.container {
+    margin: auto;
+    text-align: center;
+}
+#currentWord {
+    letter-spacing: 10px;
+}
+
+    p {
+        font-weight: bold;
+}
